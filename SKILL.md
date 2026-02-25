@@ -56,6 +56,7 @@ Every presentation MUST include this base CSS for viewport fitting:
    =========================================== */
 
 /* 1. Lock html/body to viewport */
+
 html, body {
     height: 100%;
     overflow-x: hidden;
